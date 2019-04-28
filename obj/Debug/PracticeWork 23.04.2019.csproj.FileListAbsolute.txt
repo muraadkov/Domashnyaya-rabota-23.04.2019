@@ -1,0 +1,23 @@
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\obj\Debug\PracticeWork 23.04.2019.csprojAssemblyReference.cache
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\obj\Debug\PracticeWork 23.04.2019.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\PracticeWork 23.04.2019.exe.config
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\PracticeWork 23.04.2019.exe
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\PracticeWork 23.04.2019.pdb
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\EntityFramework.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Newtonsoft.Json.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Twilio.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\EntityFramework.xml
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Newtonsoft.Json.xml
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\Twilio.xml
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\obj\Debug\PracticeWork 23.04.2019.csproj.CopyComplete
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\obj\Debug\PracticeWork 23.04.2019.exe
+C:\Users\murka\source\repos\Practice23.04.2019\PracticeWork 23.04.2019\obj\Debug\PracticeWork 23.04.2019.pdb
